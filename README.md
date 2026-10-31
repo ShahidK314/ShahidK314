@@ -26,7 +26,7 @@ Saya senang mempelajari bagaimana sebuah aplikasi dirancang, dibangun, diuji, da
 - 👨‍🏫 **Kegiatan kampus:** Penanggung Jawab (*Course Coordinator*) untuk mata kuliah **Cloud Computing**.
 - 💻 **Fokus eksplorasi:** Pengembangan aplikasi web dan *mobile*, integrasi OCR, alur kerja pengembangan berbantuan AI, serta perancangan sistem berbasis data.
 - 🚀 **Minat pengembangan:** Sistem informasi, *decision support system*, pengelolaan data UMKM, dan pengalaman pengguna.
-- ☁️ **Infrastruktur:** Pernah melakukan konfigurasi jaringan lokal dan lingkungan virtualisasi menggunakan VirtualBox, Ubuntu Server/Desktop, Windows 10 Pro, serta Cloudflare WARP.
+- ☁️ **Infrastruktur:** Pernah melakukan konfigurasi jaringan lokal dan lingkungan virtualisasi menggunakan VirtualBox, Ubuntu Server.
 
 ---
 
@@ -105,10 +105,7 @@ Teknologi berikut pernah saya gunakan, pelajari, atau eksplorasi melalui tugas, 
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js_24-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js 24" />
   <img src="https://img.shields.io/badge/Ubuntu_Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu Server" />
-  <img src="https://img.shields.io/badge/Ubuntu_Desktop-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu Desktop" />
-  <img src="https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows 10" />
   <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox" />
-  <img src="https://img.shields.io/badge/Cloudflare_WARP-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare WARP" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP" />
 </p>
@@ -130,14 +127,14 @@ Teknologi berikut pernah saya gunakan, pelajari, atau eksplorasi melalui tugas, 
 ## 📈 Statistik GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShahidK314&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=Statistik%20GitHub" alt="Statistik GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahidK314&layout=compact&theme=tokyonight&hide_border=true&custom_title=Bahasa%20yang%20Sering%20Digunakan" alt="Bahasa yang sering digunakan" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=ShahidK314&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=Statistik%20GitHub" alt="Statistik GitHub" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ShahidK314&layout=compact&theme=tokyonight&hide_border=true&custom_title=Bahasa%20yang%20Sering%20Digunakan" alt="Bahasa yang sering digunakan" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShahidK314&theme=tokyonight&hide_border=true&locale=id" alt="Statistik rentetan kontribusi GitHub" />
+  <img src="https://streak-stats.demolab.com/?user=ShahidK314&theme=tokyonight&hide_border=true&locale=id" alt="Statistik rentetan kontribusi GitHub" />
 </div>
 
 ---
