@@ -1,134 +1,147 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:111827,48:1e3a8a,100:0891b2&text=Shahid%20Kustiawan&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Informatics%20Engineering%20Student%20%7C%20Aspiring%20Full-Stack%20Developer&descAlignY=57&descSize=15" alt="Shahid Kustiawan — Informatics Engineering Student" />
-  <br />
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Turning+ideas+into+practical+software.;Learning%2C+building%2C+testing%2C+and+improving.;Interested+in+Full-Stack+Development+%26+Software+Quality." alt="Typing introduction" />
-  <br />
-  <img src="https://komarev.com/ghpvc/?username=ShahidK314&style=flat-square&color=0e7490&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Halo,%20Saya%20M.%20Shahid%20Kustiawan!&fontSize=42&animation=fadeIn" alt="Header profil Shahid Kustiawan" />
 </div>
 
+<h3 align="center">Mahasiswa Teknik Informatika | Calon Pengembang Full-Stack | Penggemar Teknologi 🚀</h3>
+
+<div align="center">
+  <a href="https://github.com/ShahidK314">
+    <img src="https://komarev.com/ghpvc/?username=ShahidK314&label=Kunjungan%20Profil&color=0e75b6&style=flat" alt="Kunjungan profil" />
+  </a>
+  <a href="https://www.linkedin.com/in/shahid-kustiawan-845985318">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
+
+<br/>
+
+## 👨‍💻 Tentang Saya
+
+Halo! Saya **M. Shahid Kustiawan**, mahasiswa **Teknik Informatika, Jurusan Teknologi Informasi dan Komunikasi (TIK), Politeknik Negeri Jakarta (PNJ)**. Saya tertarik pada pengembangan aplikasi *full-stack*, kecerdasan buatan, *computer vision*, pengelolaan basis data, serta pengujian kualitas perangkat lunak.
+
+Saya senang mempelajari bagaimana sebuah aplikasi dirancang, dibangun, diuji, dan dikembangkan untuk menyelesaikan permasalahan nyata.
+
+- 🎓 **Pendidikan:** Teknik Informatika — Politeknik Negeri Jakarta.
+- 🤖 **Pengembangan diri:** Mengikuti pembelajaran dan pengembangan kemampuan di bidang **AI Full-Stack Developer**, termasuk program ASAH (Akselerasi Talenta Digital) dari Dicoding.
+- 👨‍🏫 **Kegiatan kampus:** Penanggung Jawab (*Course Coordinator*) untuk mata kuliah **Cloud Computing**.
+- 💻 **Fokus eksplorasi:** Pengembangan aplikasi web dan *mobile*, integrasi OCR, alur kerja pengembangan berbantuan AI, serta perancangan sistem berbasis data.
+- 🚀 **Minat pengembangan:** Sistem informasi, *decision support system*, pengelolaan data UMKM, dan pengalaman pengguna.
+- ☁️ **Infrastruktur:** Pernah melakukan konfigurasi jaringan lokal dan lingkungan virtualisasi menggunakan VirtualBox, Ubuntu Server/Desktop, Windows 10 Pro, serta Cloudflare WARP.
+
 ---
 
-## About Me
+## 🚀 Proyek & Portofolio
 
-Hi! I'm **M. Shahid Kustiawan**, an Informatics Engineering student at **Politeknik Negeri Jakarta (PNJ)**.
+Berikut beberapa proyek, tugas perkuliahan, dan kegiatan analisis sistem yang pernah saya kerjakan atau kembangkan.
 
-I'm interested in building useful software and understanding how applications work from the inside out. My learning journey covers **web development, backend logic, database design, application testing, and UI/UX planning**. I enjoy turning a problem or a business workflow into a clear technical solution, then improving it through implementation and testing.
+| Nama Proyek | Deskripsi | Teknologi & Metode |
+| :--- | :--- | :--- |
+| **SATRIA — Sistem Administrasi TOR & LPJ** | Sistem administrasi untuk pengelolaan pengajuan TOR, verifikasi, dokumen KAK/RAB, dan laporan pertanggungjawaban dengan beberapa tingkatan pengguna. | PHP Native (MVC), MySQL, Tailwind CSS, TCPDF/mPDF |
+| **Hand-Blaster-Game** | Proyek grafika komputer berupa permainan interaktif dengan kendali gestur tangan yang dideteksi secara *real-time*. | Python, Pygame, OpenCV, MediaPipe |
+| **BeaSmart** | Sistem Pendukung Keputusan (SPK) beasiswa dengan metode *Simple Additive Weighting* (SAW). | CodeIgniter 4, SAW |
+| **UMKM Data System** | Analisis dan perancangan sistem berbasis data untuk membantu pengelolaan informasi inventaris dan kebutuhan produksi UMKM bidang makanan. | Python, analisis data, perancangan sistem |
+| **Local AI Env** | Eksplorasi konfigurasi alur kerja *coding* lokal menggunakan modul dan *skill* berbasis CLI, seperti graphifyy, ui-ux-pro-max, dan taste-skill. | Python 3.14, Node.js 24, CLI |
+| **ProShop — Toko Elektronik** | Proyek mini pengembangan aplikasi e-commerce untuk penjualan produk elektronik. | PHP, HTML, CSS, JavaScript, XAMPP |
+| **SITOPSI** | Proyek sistem informasi dengan pengelolaan peran admin dan mahasiswa serta penilaian minat dan bakat menggunakan metode *Certainty Factor*. | Basis data, SQL, *Certainty Factor* |
+| **React API Mini Project** | Pengembangan antarmuka web yang memanfaatkan API, disertai perancangan pengalaman pengguna dan fitur pengelolaan data. | React, JavaScript, API |
+| **Analisis Use Case Sumoyaki** | Analisis kebutuhan UMKM F&B untuk pengelolaan pesanan WhatsApp, termasuk pencatatan kombinasi topping dan jumlah setiap varian. | Analisis kebutuhan, dokumentasi *use case*, perancangan proses |
+| **Pengujian Perangkat Lunak PHP** | Tugas Software Quality Assurance yang membahas pengujian logika, *control flow graph*, *cyclomatic complexity*, dan *regression testing*. | PHP, PHPUnit, SimpleTest |
 
-- 🎓 **Education:** Informatics Engineering — Politeknik Negeri Jakarta
-- 💻 **Main interest:** Full-Stack Web Development
-- 🧩 **Also interested in:** Database Design, Software Quality Assurance, and UI/UX
-- 🌱 **Currently strengthening:** PHP/Laravel, JavaScript/React, and application architecture
-- 🎯 **Goal:** Grow into a well-rounded Full-Stack Developer
+> Catatan: Daftar di atas mencakup proyek implementasi, prototipe, tugas perkuliahan, dan analisis kebutuhan. Tidak semua entri merupakan aplikasi yang sudah dipublikasikan atau digunakan di lingkungan produksi.
 
 ---
 
-## Technologies & Tools
+## 🛠️ Teknologi & Perangkat
 
-These are technologies I have used, configured, or explored across coursework and application projects. The list reflects my learning experience, not an equal level of proficiency in every item.
+Teknologi berikut pernah saya gunakan, pelajari, atau eksplorasi melalui tugas, praktikum, dan proyek. Tingkat pengalaman saya pada setiap teknologi dapat berbeda.
 
-### Programming Languages
+### 💻 Bahasa Pemrograman
 
-<p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Python_3.14-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python 3.14" />
+  <img src="https://img.shields.io/badge/PHP_8.3-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP 8.3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827" alt="JavaScript" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
 </p>
 
-### Web & Frontend
+### 🌐 Pengembangan Web & Antarmuka
 
-<p>
+<p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
 </p>
 
-### Frameworks & Libraries
+### 🌐 Framework & Pustaka
 
-<p>
+<p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/CodeIgniter_4-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter 4" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Pygame-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Pygame" />
 </p>
 
-> JavaScript is a programming language, while React is a JavaScript library for building user interfaces.
+### 🤖 Kecerdasan Buatan & Visi Komputer
 
-### Backend & Database
+<p align="left">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/MediaPipe-00B4EB?style=for-the-badge&logo=mediapipe&logoColor=white" alt="MediaPipe" />
+</p>
 
-<p>
-  <img src="https://img.shields.io/badge/PHP_Native-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP Native" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+### 🗄️ Basis Data
+
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
   <img src="https://img.shields.io/badge/Oracle_Database-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Database" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge" alt="SQL" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL" />
 </p>
 
-### Development, Testing & Tools
+### ⚙️ Runtime, Infrastruktur & Lingkungan
 
-<p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js_24-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js 24" />
+  <img src="https://img.shields.io/badge/Ubuntu_Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu Server" />
+  <img src="https://img.shields.io/badge/Ubuntu_Desktop-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu Desktop" />
+  <img src="https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows 10" />
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox" />
+  <img src="https://img.shields.io/badge/Cloudflare_WARP-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare WARP" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP" />
+</p>
+
+### 🔧 Perangkat Pengembangan & Pengujian
+
+<p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
-  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=111827" alt="Linux" />
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
   <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white" alt="Composer" />
   <img src="https://img.shields.io/badge/PHPUnit-366488?style=for-the-badge&logo=php&logoColor=white" alt="PHPUnit" />
 </p>
 
-**Other tools I've worked with:** Apache, Ubuntu, DBeaver, phpMyAdmin, Dev-C++ 5.11, SimpleTest, TCPDF, and mPDF.
+**Perangkat lain yang pernah digunakan:** Apache, DBeaver, phpMyAdmin, Dev-C++ 5.11, SimpleTest, TCPDF, dan mPDF.
 
 ---
 
-## Selected Projects & Coursework
-
-A selection of application projects, technical assignments, and project-analysis work from my learning journey.
-
-| Project | Focus | Technologies / Concepts |
-|---|---|---|
-| **SATRIA — Sistem Administrasi TOR & LPJ** | Academic application project focused on proposal, verification, and accountability-report workflows with role-based access and document handling. | PHP Native, MVC structure, MySQL, Tailwind CSS |
-| **ProShop — Electronics E-Commerce** | Web-based electronics store project developed in a local PHP environment. | PHP, XAMPP |
-| **SITOPSI** | Academic information-system project involving admin and student roles, a structured database, and a questionnaire-based assessment using the Certainty Factor method. | Database design, Certainty Factor |
-| **React API Mini Project** | Frontend project work involving API-based data and interface planning. | React, JavaScript, API integration |
-| **Sumoyaki — Order Management Use Case** | F&B small-business discovery and requirements analysis, focusing on centralizing WhatsApp orders and tracking topping combinations and item quantities. | Requirement analysis, use-case documentation, AI project planning |
-| **PHP Software Quality Assurance** | Logic-testing exercises covering control-flow graphs, cyclomatic complexity, and regression testing. | PHP, PHPUnit, SimpleTest |
-| **Java & C++ Programming Assignments** | Programming fundamentals, class/package organization, and problem-solving exercises. | Java, C++ |
-
-> Some entries represent coursework, prototypes, or analysis activities rather than finished production applications. Their descriptions are intentionally written to reflect their actual scope.
-
----
-
-## GitHub Overview
+## 📈 Statistik GitHub
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ShahidK314&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9" alt="Shahid's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahidK314&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=38BDF8&text_color=C9D1D9" alt="Most used languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShahidK314&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=Statistik%20GitHub" alt="Statistik GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahidK314&layout=compact&theme=tokyonight&hide_border=true&custom_title=Bahasa%20yang%20Sering%20Digunakan" alt="Bahasa yang sering digunakan" />
 </div>
 
-<div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=ShahidK314&hide_border=true&background=00000000&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak" />
-</div>
+<br/>
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ShahidK314&bg_color=00000000&color=C9D1D9&line=38BDF8&point=67E8F9&area=true&hide_border=true" alt="GitHub contribution activity graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShahidK314&theme=tokyonight&hide_border=true&locale=id" alt="Statistik rentetan kontribusi GitHub" />
 </div>
 
 ---
 
-## Collaboration
-
-I'm interested in collaborating on learning projects and practical applications, especially around:
-
-- Full-stack web applications and REST API integration.
-- Database-driven information systems and workflow automation.
-- Clean, accessible interfaces and thoughtful UI/UX.
-- Software testing and improving application quality.
-
-Feel free to explore my repositories or reach out through GitHub. I'm always open to learning from other developers and building something useful together.
-
 <div align="center">
-  <br />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,52:1e3a8a,100:111827&height=110&section=footer" alt="Footer banner" />
-  <sub>“Build with purpose. Learn continuously. Improve every iteration.”</sub>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Terus+belajar+dan+membangun+solusi+bermanfaat;Menghubungkan+logika%2C+teknologi%2C+dan+kreativitas" alt="Pesan penutup" />
 </div>
